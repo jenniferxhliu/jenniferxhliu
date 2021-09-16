@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jenniferxhliu
+- 👋 Hi, I’m @jennifer
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
